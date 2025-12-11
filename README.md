@@ -320,3 +320,4 @@ Voir [LICENSE](LICENSE) pour plus de détails.
 ---
 
 *Dernière mise à jour : Novembre 2024*
+
