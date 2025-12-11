@@ -1,0 +1,59 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+error_log
+debug.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Test files (should not be in production)
+test_*.php
+auto_inject.php
+complete_peppolexport.php
+set_iban.php
+
+# Personal data
+config_local.php
+
+# Composer
+vendor/
+composer.lock
+
+# NPM
+node_modules/
+package-lock.json
+
+# PHP
+*.cache
+
+# Documentation builds
+docs/_build/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Installation files (should be deleted after use)
+install_peppolexport.php
